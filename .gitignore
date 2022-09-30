@@ -1,0 +1,4 @@
+*.log
+!vip.log
+impnotes/
+x.txt
